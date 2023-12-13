@@ -141,44 +141,59 @@ function App() {
   const steps = [
     {
       img: "sign-up.png",
-      title: "Sign Up",
+      title: "Wallet",
       description:
-        "Sign up for your free NEFA Wallet on web, iOS or Android and follow our easy process to set up your profile",
+        "Download & Open Crypto wallet e.g Trustwallet, MetaMask, Safepal e.t.c",
     },
     {
       img: "fund.png",
       title: "Fund",
       description:
-        "Choose your preferred payment method such as bank transfer or credit card to top up your NEFA Wallet",
+        "Fund your BSC wallet with BNB",
     },
     {
       img: "buy-crypto.png",
-      title: "Buy Crypto",
+      title: "Buy MOCHI INU",
       description:
-        "Buy Bitcoin or Ethereum, then securely store it in your Wallet or send it on easily to your friends anywhere",
+        "Buy MOCHI INU on PancakeSwap",
     },
   ];
 
   const accordions = [
     {
-      title: "Why should I choose NEFA?",
+      title: "When was Mochi Inu Launched?",
       description:
-        "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over 8 million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features.",
+        "14th August 2023.",
     },
     {
-      title: "How secure is NEFA?",
+      title: "Who owns the project?",
       description:
-        "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features.",
+        "Community took over from the Dev after he abandoned it.",
     },
     {
-      title: "Do I have to buy a whole Bitcoin?",
+      title: "How can I buy the Token?",
       description:
-        "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features.",
+        "Copy the contract address 0x1A873e84944E174a74dFd0451796393247aB6baC and head to Poocoin/Pancakeswap  or Use the buy button and connect your wallet to buy.",
     },
     {
-      title: "How do I actually buy Bitcoin?",
+      title: "Any Utility for the project?",
       description:
-        "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features.",
+        "Yes, since the owner of KJCALMIGHTYCALLS which is community that took over the project also have a project called DUTCH RABBIT, every utility built for the project is automatically used for MOCHI INU.",
+    },
+    {
+      title: "Is the project just for fun?",
+      description:
+        "No, the project is a long term and have great potential looking at how vibrant the community her",
+    },
+    {
+      title: "Why is the contract not RENOUNCED yet?",
+      description:
+        "Not yet renounced because we are still building and if the community requested for the contract to be renounce then it will be RENOUNCED immediately but in case of some corrections we still leave it unrenounced",
+    },
+    {
+      title: "How safe is this project?",
+      description:
+        "MOCHI INU is safe 99.99% because trade can't be paused, honeypot proof, Liquidity locked for a year and Extendable before expiration.",
     },
   ];
 
