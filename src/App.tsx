@@ -519,7 +519,8 @@ function App() {
               </div>
               <div className="flex flex-col sm:flex-row">
                 <BaseButton style="px-10 py-4 bg-inherit text-gradient border border-[#4A8FF6] text-base">
-                  Learn More
+                <a href="https://mochi-inu.gitbook.io/mochi-inu/" target="_blank" rel="noopener noreferrer">Learn More</a>
+                
                 </BaseButton>
                 {/* <BaseButton style="bg-inherit text-[#4A8FF6] px-10 py-4 text-center underline rounded-full hover:shadow-none">
                   Learn More

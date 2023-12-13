@@ -66,7 +66,7 @@ const Navbar = () => {
             <NavLink name="DutchRabbitDapp" url="https://dutchrabbitdapp.xyz/pools" target="_blank" rel="noopener noreferrer"/>
             <NavLink name="Chart" url="https://dexscreener.com/bsc/0x926328Ea37D3BD20CA52cC8157831dc7c8EF770B?embed=1&theme=dark" target="_blank" rel="noopener noreferrer"/>
             <div className="flex items-center justify-normal">
-              <NavLink name="Contact" url="#" />
+              <NavLink name="Contact" url="https://t.me/MochiInuDev" target="_blank" rel="noopener noreferrer"/>
               {/* <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
