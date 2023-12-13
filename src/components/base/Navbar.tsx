@@ -84,10 +84,10 @@ const Navbar = () => {
         </div>
         <div className={`${open ? "flex" : "hidden lg:flex"} space-x-3`}>
           <BaseButton style="px-8 xl:px-10 py-3 mt-2 bg-inherit text-gradient border border-[#0c66ee]">
-            Buy Now
+          <a href="https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x1A873e84944E174a74dFd0451796393247aB6baC" target="_blank" rel="noopener noreferrer">Buy Now</a>
           </BaseButton>
           <BaseButton style="px-8 xl:px-10 py-3 mt-2 bg-gradient-to-r from-[#468ef9] to-[#0c66ee] text-white">
-            Chart
+          <a href="https://dexscreener.com/bsc/0x926328ea37d3bd20ca52cc8157831dc7c8ef770b" target="_blank" rel="noopener noreferrer">Chart</a>
           </BaseButton>
         </div>
       </div>

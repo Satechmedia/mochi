@@ -226,8 +226,8 @@ function App() {
                 data-aos-delay="300"
                 className="paragraph hidden sm:block"
               >
-                Buy and sell 200+ cryptocurrencies with 20+ flat currencies
-                using bank transfers or your credit/debit card.
+                Mochi Inu is a meme Token on the BSC network, 
+                Mochi Inu aims to continue spreading happiness and joy to her followers.
               </p>
               <div
                 data-aos="fade-up"
@@ -236,10 +236,10 @@ function App() {
                 className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 mt-2"
               >
                 <BaseButton style="max-w-full px-8 py-4 bg-gradient-to-r from-[#468ef9] to-[#0c66ee] border border-[#0c66ee] text-white">
-                  Buy Now
+                <a href="https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x1A873e84944E174a74dFd0451796393247aB6baC" target="_blank" rel="noopener noreferrer">Buy Now</a>
                 </BaseButton>
                 <BaseButton style="max-w-full px-6 py-4 bg-inherit text-gradient border border-[#0c66ee] flex items-center justify-center">
-                  <span>TG Community</span>
+                  <a href="https://t.me/mochiinuofficial" target="_blank" rel="noopener noreferrer"><span>TG Community</span></a>
                   {/* <svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
@@ -363,7 +363,7 @@ function App() {
                   exchanges={cryptocurrencies}
                 /> */}
                 <BaseButton style="w-full px-5 py-4 bg-blue-gradient text-white text-base font-medium">
-                  Buy Now on Pancakeswap
+                  <a href="https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x1A873e84944E174a74dFd0451796393247aB6baC" target="_blank" rel="noopener noreferrer">Buy Now on Pancakeswap</a>
                 </BaseButton>
               </div>
             </div>
