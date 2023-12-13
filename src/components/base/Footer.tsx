@@ -72,7 +72,7 @@ const Footer = () => {
         </div>
       </div> */}
       <div className="py-8 sm:py-4 text-center text-sm text-[#666666] hover:text-gray-900">
-        &copy; Copyright 2022  MOCHI INU. All rights reserved
+        &copy; Copyright 2023  MOCHI INU. All rights reserved
       </div>
     </footer>
   );

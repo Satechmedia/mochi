@@ -183,7 +183,7 @@ function App() {
     {
       title: "Is the project just for fun?",
       description:
-        "No, the project is a long term and have great potential looking at how vibrant the community her",
+        "No, the project is a long term and have great potential looking at how vibrant the community are",
     },
     {
       title: "Why is the contract not RENOUNCED yet?",
@@ -228,6 +228,7 @@ function App() {
               >
                 Mochi Inu is a meme Token on the BSC network, 
                 Mochi Inu aims to continue spreading happiness and joy to her followers.
+                Contract: 0x1A873e84944E174a74dFd0451796393247aB6baC
               </p>
               <div
                 data-aos="fade-up"
@@ -240,20 +241,6 @@ function App() {
                 </BaseButton>
                 <BaseButton style="max-w-full px-6 py-4 bg-inherit text-gradient border border-[#0c66ee] flex items-center justify-center">
                   <a href="https://t.me/mochiinuofficial" target="_blank" rel="noopener noreferrer"><span>TG Community</span></a>
-                  {/* <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    strokeWidth={1.5}
-                    stroke="currentColor"
-                    className="w-4 h-4 text-[#0c66ee]"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      d="M19.5 8.25l-7.5 7.5-7.5-7.5"
-                    />
-                  </svg> */}
                 </BaseButton>
               </div>
             </div>
@@ -488,14 +475,14 @@ function App() {
               <div className="space-y-2">
                 <h4 className="text-lg font-medium">Robust Tax System</h4>
                 <p className="paragraph text-sm xl:text-base">
-                  3% goes to marketing to fuel growth and further development
+                  5% goes to marketing to fuel growth and further development
                   for continued innovation.
                 </p>
               </div>
               <div className="space-y-2">
                 <h4 className="text-lg font-medium">Reflection Rewards</h4>
                 <p className="paragraph text-sm xl:text-base">
-                  5% of total transactions on buy and sell is reflected to
+                  2% of total transactions on buy and sell is reflected to
                   existing holders, rewarding long-term ownership.
                 </p>
               </div>
@@ -522,9 +509,9 @@ function App() {
                 <a href="https://mochi-inu.gitbook.io/mochi-inu/" target="_blank" rel="noopener noreferrer">Learn More</a>
                 
                 </BaseButton>
-                {/* <BaseButton style="bg-inherit text-[#4A8FF6] px-10 py-4 text-center underline rounded-full hover:shadow-none">
-                  Learn More
-                </BaseButton> */}
+                <BaseButton style="px-10 py-4 bg-inherit text-gradient border border-[#4A8FF6] text-base">
+                <a href="https://www.pinksale.finance/pinklock/record/1137363?chain=BSC" target="_blank" rel="noopener noreferrer">LP Lock</a>
+                </BaseButton>
               </div>
             </div>
             <div
